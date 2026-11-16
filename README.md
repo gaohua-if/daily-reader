@@ -1,6 +1,6 @@
 # 每日阅读
 
-这里收录每日整理的文章、文档和开源项目。完整摘要按整理日期归档，读完的文章记入[已读清单](READ.md)。
+这里收录每日整理的文章、文档和 Git 仓库。完整摘要按整理日期归档，读完的文章记入[已读清单](READ.md)。
 
 ## 值得读
 
@@ -11,8 +11,12 @@
 3. **Worse Together**。适合设计多人共用预算、日程或合并队列时阅读，重点看共享预算和团体点餐实验中分别奏效的协调方式。[乔木中文解读](https://blog.qiaomu.ai/worse-together-multi-agent) · [研究团队原文](https://alignment.anthropic.com/2026/worse-together/)
 4. **Siboot 的多 Agent 协作实践**。适合设计团队群里的 Agent 接力流程。重点看如何用 Topic 聚合同一任务的讨论、文件和进度，让接手的人或 Agent 直接查阅。[公众号原文](https://mp.weixin.qq.com/s/L7WgswCBgMGUF7mD7pcYfw)
 
+## Git 仓库
+
+按收录日期查看仓库链接和用途。看到新仓库时，可以直接把链接加到清单。[Git 仓库清单](REPOS.md)
+
 ## 每日汇总
 
-- [2026-11-16 · Agent 工程](notes/2026-11-16.md)（8 个来源）
+- [2026-11-16 · Agent 工程](notes/2026-11-16.md)（10 个来源）
 
 每个整理日期对应一份 `notes/YYYY-MM-DD.md`，最新日期放在索引顶部。
