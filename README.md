@@ -4,6 +4,10 @@
 
 ## 值得读
 
+### 2026-11-18 · Agent 协作与验证
+
+1. **How the Claude Code team thinks about verification**。适合给编程 Agent 设计验收流程时阅读。重点看三类测试的用途，以及如何用真实故障评估验证规则。[Claude 开发者博客](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
+
 ### 2026-11-16 · Agent 工程
 
 1. **Building always-on agents**。如果只读一篇，选这篇。它讲清楚事件如何唤醒 Agent、运行如何恢复，以及什么时候需要人工确认。[Anthropic 指南](https://claude.com/resources/articles/building-always-on-agents)
@@ -13,10 +17,11 @@
 
 ## Git 仓库
 
-按收录日期查看仓库链接和用途。看到新仓库时，可以直接把链接加到清单。[Git 仓库清单](REPOS.md)
+按收录日期查看仓库、相关文档和文章。看到新链接时，可以直接加到清单。[Git 仓库与相关资料清单](REPOS.md)
 
 ## 每日汇总
 
+- [2026-11-18 · Agent 协作与验证](notes/2026-11-18.md)（3 个链接，含 1 个已收录链接）
 - [2026-11-16 · Agent 工程](notes/2026-11-16.md)（10 个来源）
 
 每个整理日期对应一份 `notes/YYYY-MM-DD.md`，最新日期放在索引顶部。
